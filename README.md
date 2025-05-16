@@ -18,3 +18,6 @@ Body:
 Your personalized credentials are below. Please note that these will become active starting *TIMESTAMP*
 
 Status will be generated automatically after the script is executed.
+
+Example email sent
+![alt text](image.png)
